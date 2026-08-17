@@ -11,6 +11,7 @@ My day-by-day notes and code examples as I learn Python, following the [Engineer
 | 3   | [day03_lists_tuples_sets](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day03_lists_tuples_sets) | Creating & slicing lists, list methods, list comprehension, tuples & immutability, sets & set operations |
 | 4   | [day04_dictionaries_conditionals](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day04_dictionaries_conditionals) | Dictionaries - access & modify elements, If/elif/else statements, conditional & logical operators |
 | 5   | [day05_while_loops](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day05_while_loops) | While loops, break & continue statements, nested loops |
+| 6   | [day06_for_loops_comprehension](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day06_for_loops_comprehension) | For loops, range(), enumerate(), nested loops, list comprehension, list input, for vs while |
 
 Each day's folder contains:
 - `notes.md` - summary notes for that day's topics
