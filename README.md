@@ -15,6 +15,7 @@ My day-by-day notes and code examples as I learn Python, following the [Engineer
 | 7   | [day07_functions_variables](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day07_functions_variables) | Functions, parameters, default values, return values, local vs global variables, global keyword |
 | 8   | [day08_lambda_recursion_args](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day08_lambda_recursion_args) | Lambda functions, recursion (base/recursive case), *args, **kwargs, HackerRank practice |
 | 9   | [day09_oop_introduction](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day09_oop_introduction) | OOP intro - classes, objects, __init__ constructor, instance attributes/methods, self keyword |
+| 10  | [day10_constructors_self](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day10_constructors_self) | __init__ constructor in depth, self keyword, multiple objects, default parameters, homework (Movie & Employee classes) |
 
 Each day's folder contains:
 - `notes.md` - summary notes for that day's topics
