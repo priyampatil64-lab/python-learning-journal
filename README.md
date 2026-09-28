@@ -18,6 +18,7 @@ My day-by-day notes and code examples as I learn Python, following the [Engineer
 | 10  | [day10_constructors_self](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day10_constructors_self) | __init__ constructor in depth, self keyword, multiple objects, default parameters, homework (Movie & Employee classes) |
 | 11  | [day11_abstraction_encapsulation](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day11_abstraction_encapsulation) | OOP pillars - abstraction, encapsulation, public/protected/private attributes, getter & setter methods |
 | 12  | [day12_inheritance_polymorphism](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day12_inheritance_polymorphism) | Inheritance, parent/child classes, method overriding, super(), polymorphism |
+| 13  | [day13_getters_setters_abstract](https://github.com/priyampatil64-lab/python-learning-journal/blob/main/day13_getters_setters_abstract) | Getters & setters (@property), overloading, overriding, abstract classes (abc module) |
 
 Each day's folder contains:
 - `notes.md` - summary notes for that day's topics
